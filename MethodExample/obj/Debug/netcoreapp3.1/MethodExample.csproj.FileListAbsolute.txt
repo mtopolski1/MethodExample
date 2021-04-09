@@ -1,0 +1,12 @@
+/Users/marktopolski/Projects/MethodExample/MethodExample/bin/Debug/netcoreapp3.1/MethodExample.deps.json
+/Users/marktopolski/Projects/MethodExample/MethodExample/bin/Debug/netcoreapp3.1/MethodExample.runtimeconfig.json
+/Users/marktopolski/Projects/MethodExample/MethodExample/bin/Debug/netcoreapp3.1/MethodExample.runtimeconfig.dev.json
+/Users/marktopolski/Projects/MethodExample/MethodExample/bin/Debug/netcoreapp3.1/MethodExample.dll
+/Users/marktopolski/Projects/MethodExample/MethodExample/bin/Debug/netcoreapp3.1/MethodExample.pdb
+/Users/marktopolski/Projects/MethodExample/MethodExample/obj/Debug/netcoreapp3.1/MethodExample.AssemblyInfoInputs.cache
+/Users/marktopolski/Projects/MethodExample/MethodExample/obj/Debug/netcoreapp3.1/MethodExample.AssemblyInfo.cs
+/Users/marktopolski/Projects/MethodExample/MethodExample/obj/Debug/netcoreapp3.1/MethodExample.csproj.CoreCompileInputs.cache
+/Users/marktopolski/Projects/MethodExample/MethodExample/obj/Debug/netcoreapp3.1/MethodExample.dll
+/Users/marktopolski/Projects/MethodExample/MethodExample/obj/Debug/netcoreapp3.1/MethodExample.pdb
+/Users/marktopolski/Projects/MethodExample/MethodExample/obj/Debug/netcoreapp3.1/MethodExample.genruntimeconfig.cache
+/Users/marktopolski/Projects/MethodExample/MethodExample/obj/Debug/netcoreapp3.1/MethodExample.csprojAssemblyReference.cache
